@@ -1,0 +1,36 @@
+@media screen and (max-width: 980px) {
+   #header {
+      width: 95%;
+   }
+     #div {
+      width: 95%;
+   }
+
+   @media screen and (max-width: 650px) {
+   	 #header {
+      height: auto;
+   }
+   img {
+   max-width: 100%;
+   height: auto;
+   width: auto\9; 
+}
+   @media screen and (max-width: 480px) {
+   html {
+      -webkit-text-size-adjust: none;
+   }
+   #div a {
+      font-size: 90%;
+      padding: 10px 8px;
+   }
+}
+   #header a {
+      font-size: 90%;
+      padding: 10px 8px;
+   }
+   img {
+   max-width: 100%;
+   height: auto;
+   width: auto\9; 
+}
+}
